@@ -1,0 +1,14 @@
+C:\Users\StefanosPC\source\repos\Bench\Bench\bin\Debug\Bench.exe.config
+C:\Users\StefanosPC\source\repos\Bench\Bench\bin\Debug\Bench.exe
+C:\Users\StefanosPC\source\repos\Bench\Bench\bin\Debug\Bench.pdb
+C:\Users\StefanosPC\source\repos\Bench\Bench\bin\Debug\MetroFramework.Design.dll
+C:\Users\StefanosPC\source\repos\Bench\Bench\bin\Debug\MetroFramework.dll
+C:\Users\StefanosPC\source\repos\Bench\Bench\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\StefanosPC\source\repos\Bench\Bench\obj\Debug\Bench.csprojAssemblyReference.cache
+C:\Users\StefanosPC\source\repos\Bench\Bench\obj\Debug\Bench.Form1.resources
+C:\Users\StefanosPC\source\repos\Bench\Bench\obj\Debug\Bench.Properties.Resources.resources
+C:\Users\StefanosPC\source\repos\Bench\Bench\obj\Debug\Bench.csproj.GenerateResource.cache
+C:\Users\StefanosPC\source\repos\Bench\Bench\obj\Debug\Bench.csproj.CoreCompileInputs.cache
+C:\Users\StefanosPC\source\repos\Bench\Bench\obj\Debug\Bench.csproj.CopyComplete
+C:\Users\StefanosPC\source\repos\Bench\Bench\obj\Debug\Bench.exe
+C:\Users\StefanosPC\source\repos\Bench\Bench\obj\Debug\Bench.pdb
